@@ -28,18 +28,18 @@ AmirReza Rajabi, Bsc student of Computer Engineering at AmirKabir University of 
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=FarshidNooshi&theme=dracula&show_icons=true"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=amirrezarajabi&theme=dracula&show_icons=true"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarshidNooshi&layout=compact&theme=dracula&langs_count=8"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirrezarajabi&layout=compact&theme=dracula&langs_count=8"/>
         </td>
     </tr>
 </table>
 
 <p align="center">
 
-[![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=FarshidNooshi&theme=dracula&margin-w=10&margin-h=15&column=7)](https://github.com/FarshidNooshi)
+[![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=amirrezarajabi&theme=dracula&margin-w=10&margin-h=15&column=7)](https://github.com/FarshidNooshi)
 
-  [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=FarshidNooshi&theme=dracula)](https://github.com/FarshidNooshi)
+  [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=amirrezarajabi&theme=dracula)](https://github.com/amirrezarajabi)
 
 </p>
