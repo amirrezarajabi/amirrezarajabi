@@ -22,4 +22,24 @@ AmirReza Rajabi, Bsc student of Computer Engineering at AmirKabir University of 
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=amirrezarajabi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats).  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirrezarajabi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## My github account information is as follow:
+
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=FarshidNooshi&theme=dracula&show_icons=true"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarshidNooshi&layout=compact&theme=dracula&langs_count=8"/>
+        </td>
+    </tr>
+</table>
+
+<p align="center">
+
+[![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=FarshidNooshi&theme=dracula&margin-w=10&margin-h=15&column=7)](https://github.com/FarshidNooshi)
+
+  [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=FarshidNooshi&theme=dracula)](https://github.com/FarshidNooshi)
+
+</p>
