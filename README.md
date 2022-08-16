@@ -38,7 +38,7 @@ AmirReza Rajabi, Bsc student of Computer Engineering at AmirKabir University of 
 
 <p align="center">
 
-[![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=amirrezarajabi&theme=dracula&margin-w=10&margin-h=15&column=7)](https://github.com/FarshidNooshi)
+[![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=amirrezarajabi&theme=dracula&margin-w=10&margin-h=15&column=7)](https://github.com/amirrezarajabi)
 
   [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=amirrezarajabi&theme=dracula)](https://github.com/amirrezarajabi)
 
