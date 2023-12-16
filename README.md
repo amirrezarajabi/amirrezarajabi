@@ -5,7 +5,7 @@ Amirreza Rajabi, B.Sc. student of Computer Engineering at AmirKabir University o
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- Natural Language Processing
+- Reinforcment Learning
 - Optimization
 
 ## Programming Languages, Technologies & Tools
