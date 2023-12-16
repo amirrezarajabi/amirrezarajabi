@@ -1,5 +1,5 @@
 ## About me
-AmirReza Rajabi, B.Sc. student of Computer Engineering at AmirKabir University of Technology.
+Amirreza Rajabi, B.Sc. student of Computer Engineering at AmirKabir University of Technology.
 
 ## Interests
 - Machine Learning
